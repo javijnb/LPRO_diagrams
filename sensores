@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T22:47:21.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="3WWe6pT7oDYA9hOYksUe" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T23:00:09.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="c10TXZPv_yJt02C3RGzK" version="14.4.3" type="github">
   <diagram id="nDehQM7Ei3udkxnkvcSr" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,23 +64,29 @@
         <mxCell id="Mic42DVGFWY6Nq2vr-e3-36" value="LORA UPLINK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mic42DVGFWY6Nq2vr-e3-37" value="Topics:&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Luada/gateway1/ID_lobo_1/RSSI/valor&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Luada/gateway1/ID_vaca_master_1/param/valor&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontSize=14;fontColor=#000000;strokeColor=#000000;arcSize=33;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="315" height="70" as="geometry" />
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-37" value="&lt;b&gt;Topics:&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;b&gt;Luada/gateway1/ID_lobo_1/RSSI/valor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;b&gt;Luada/gateway1/ID_vaca_master_1/param/valor&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontSize=14;strokeColor=#d79b00;arcSize=33;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Mic42DVGFWY6Nq2vr-e3-39" value="MQTT PUBLISH &lt;font color=&quot;#3399ff&quot;&gt;over LORA&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontStyle=1;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="240" y="215" width="130.63" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mic42DVGFWY6Nq2vr-e3-40" value="&lt;b&gt;&lt;font color=&quot;#006633&quot;&gt;RSSI(dbm)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="170" y="609" width="100" height="30" as="geometry" />
+          <mxGeometry x="170" y="583" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mic42DVGFWY6Nq2vr-e3-41" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;GPS(latitud, longitud)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="583" width="150" height="30" as="geometry" />
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-41" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;GPS (latitud, longitud)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="434" y="557" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mic42DVGFWY6Nq2vr-e3-42" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;Estampida(True | false)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="609" width="160" height="30" as="geometry" />
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-42" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;Estampida (True | false)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="424" y="583" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mic42DVGFWY6Nq2vr-e3-43" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;Alarma(True&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="430" y="639" width="160" height="30" as="geometry" />
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-43" value="&lt;font color=&quot;#006633&quot;&gt;&lt;b&gt;Alarma (ID Lobo + RSSI)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="414" y="613" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-44" value="&lt;b&gt;&lt;font color=&quot;#006633&quot;&gt;ID Lobo&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="166" y="557" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mic42DVGFWY6Nq2vr-e3-45" value="&lt;b&gt;&lt;font color=&quot;#006633&quot;&gt;ID del animal de ganado&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="418.5" y="527" width="165.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
