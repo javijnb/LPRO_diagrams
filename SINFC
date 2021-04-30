@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-30T09:19:16.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ioRf18s1jFSFBYC5mQn5" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-30T09:20:38.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="x1_ZJQ8yeJUM-x-U-u8T" version="14.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="CzjjVaBX-ysAzBQ1DP3G-40" value="" style="rhombus;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="481.58000000000004" y="325" width="176.84" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="2Hg9zD_jYrCoL5SD96cH-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CzjjVaBX-ysAzBQ1DP3G-1" target="CzjjVaBX-ysAzBQ1DP3G-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="125" />
-              <mxPoint x="230" y="30" />
-              <mxPoint x="1400" y="30" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="CzjjVaBX-ysAzBQ1DP3G-1" value="&lt;ul&gt;&lt;li&gt;&lt;u&gt;nombre&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;fecha_produccion&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;productora&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;tipo&lt;/u&gt;&lt;/li&gt;&lt;li&gt;descripción&lt;/li&gt;&lt;li&gt;num_participantes&lt;/li&gt;&lt;li&gt;restriccion&lt;/li&gt;&lt;li&gt;fecha&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; fecha_ini&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; fecha_fin&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#eeeeee;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="75" width="160" height="200" as="geometry" />
