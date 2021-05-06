@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T14:18:49.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="TJasnPeYBD-LoiS0hbWt" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-06T14:19:20.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="wk3aIQ-MRPvQ4lHnYzG0" version="14.6.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1808" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2858" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="CzjjVaBX-ysAzBQ1DP3G-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-20" y="10" width="1490" height="1005" as="geometry" />
+          <mxGeometry x="-70" width="1460" height="770" as="geometry" />
         </mxCell>
         <mxCell id="IqSfGKP715f3e3Od-wEf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.163;exitDx=0;exitDy=0;entryX=0.006;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CzjjVaBX-ysAzBQ1DP3G-1" target="IqSfGKP715f3e3Od-wEf-0">
           <mxGeometry relative="1" as="geometry">
@@ -59,7 +59,7 @@
           <mxGeometry x="1140" y="440" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CzjjVaBX-ysAzBQ1DP3G-87" value="DIAGRAMA RELACIONAL&lt;br&gt;SINF C - 2021&lt;br&gt;DIEGO PRIETO CARRETE, PEDRO OTERO RIVAS, JAVIER NÚÑEZ BON" style="text;html=1;strokeColor=#36393d;fillColor=#ffcc99;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;arcSize=29;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="930" y="100" width="330" height="102.5" as="geometry" />
+          <mxGeometry x="990" y="165" width="330" height="102.5" as="geometry" />
         </mxCell>
         <mxCell id="IqSfGKP715f3e3Od-wEf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IqSfGKP715f3e3Od-wEf-0" target="CzjjVaBX-ysAzBQ1DP3G-3">
           <mxGeometry relative="1" as="geometry">
