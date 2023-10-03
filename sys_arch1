@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T21:47:45.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tR3MeC-a2wrogxDK6siq" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T21:48:24.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7SvptpcSTwYqbJ02Cpv9" version="22.0.1" type="github">
   <diagram id="RJ6tRk1RHwQ6fPCSEupq" name="Pagina-1">
     <mxGraphModel dx="1461" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,9 +143,6 @@
         </mxCell>
         <mxCell id="fckRbgjYNccsydcaAn5S-1" value="Signal and data processing module" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="710" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="fckRbgjYNccsydcaAn5S-2" value="AIS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="70" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="65GgUj29Yj8V33V_kPYD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="65GgUj29Yj8V33V_kPYD-41" target="65GgUj29Yj8V33V_kPYD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
