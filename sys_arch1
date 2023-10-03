@@ -1,53 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T15:54:21.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="20.6.2" etag="6W0Pmcu4tTtepUjdSi7F" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T18:09:48.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8GtKd26ehBXmJuQq0bP2" version="22.0.1" type="github">
   <diagram id="RJ6tRk1RHwQ6fPCSEupq" name="Pagina-1">
-    <mxGraphModel dx="1711" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UO6msvm4dTtNYFh78lyD-1" value="System Architecture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UO6msvm4dTtNYFh78lyD-1" value="System Architecture" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-2" value="User Segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UO6msvm4dTtNYFh78lyD-2" value="User Segment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-3" value="Ground Segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UO6msvm4dTtNYFh78lyD-3" value="Ground Segment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-4" value="Space Segment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UO6msvm4dTtNYFh78lyD-4" value="Space Segment" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-5" value="Payload Element" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-5" value="Payload Element" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-6" value="Platform Element" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-6" value="Platform Element" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-7" value="Thermal Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-7" value="Thermal Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-8" value="Power Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="400" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-8" value="Power Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="470" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-9" value="ADCS Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-9" value="ADCS Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-10" value="Structure Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-10" value="Structure Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-11" value="Electrical Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="550" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-11" value="Electrical Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-12" value="Communication Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="600" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-12" value="Communication Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-13" value="Transceiver for Ground Segment Communication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="120" height="70" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-13" value="Transceiver for Ground Segment Communication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="420" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-14" value="Power Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-14" value="GNSS Receiver" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UO6msvm4dTtNYFh78lyD-15" value="On-board data handling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="650" width="120" height="40" as="geometry" />
+        <mxCell id="UO6msvm4dTtNYFh78lyD-15" value="On-board data handling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fckRbgjYNccsydcaAn5S-1" value="Signal and data processing module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fckRbgjYNccsydcaAn5S-2" value="Ground station transceiver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fckRbgjYNccsydcaAn5S-3" value="AIS receiver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fckRbgjYNccsydcaAn5S-4" value="LEO Cubesats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
