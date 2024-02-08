@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T16:08:59.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KPce9GagqkpAwyzmCPqe" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:09:52.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WONZT-GXsJel8nLuEjQ2" version="23.1.2" type="github">
   <diagram name="Pagina-1" id="YukvQmOsF2JQtMTUXDdt">
     <mxGraphModel dx="1310" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,10 +139,10 @@
         <mxCell id="zBdRikjatMXLkcNWQh5y-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="660" y="520" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-50" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-49">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-50" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;01&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-49">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-51" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-49">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-51" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 1&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-49">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-52" value="" style="group" vertex="1" connectable="0" parent="1">
