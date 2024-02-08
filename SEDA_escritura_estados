@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T15:59:46.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="93-CwgBpGwYuCbuHFT1M" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:07:52.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="_pEGU20FrTPDlfNUadgC" version="23.1.2" type="github">
   <diagram name="Pagina-1" id="YukvQmOsF2JQtMTUXDdt">
-    <mxGraphModel dx="1814" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,64 +148,64 @@
         <mxCell id="zBdRikjatMXLkcNWQh5y-52" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="660" y="640" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-53" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-52">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-53" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;01&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-52">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-54" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-52">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-54" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 1&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-52">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-55" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="640" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-56" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-55">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-56" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;01&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 1&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-55">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-57" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-55">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-57" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 1&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-55">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="520" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-59" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-58">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-59" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;01&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-58">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-60" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-58">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-60" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 1&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-58">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-61" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="400" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-62" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-61">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-62" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-61">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-63" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-61">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-63" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-61">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-64" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="280" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-65" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-64">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-65" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-64">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-66" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-64">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-66" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 1&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-64">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-67" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-190" y="160" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-68" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-67">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-68" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 1&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-67">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-69" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-67">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-69" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 1&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-67">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zBdRikjatMXLkcNWQh5y-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="10" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-71" value="en_addr_increment = 0&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;00&quot;&lt;br&gt;cs_mem = 0&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-70">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-71" value="en_addr_increment = 1&lt;br&gt;fifo_read_en = 0&lt;br&gt;instr_select = &quot;00&quot;&lt;br&gt;mux_out_sel = &quot;01&quot;&lt;br&gt;cs_mem = 1&lt;br&gt;en_count = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-70">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zBdRikjatMXLkcNWQh5y-72" value="sreg_wren_load = 0&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 0&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-70">
+        <mxCell id="zBdRikjatMXLkcNWQh5y-72" value="sreg_wren_load = 1&lt;br&gt;sreg_wren_en = 0&lt;br&gt;sreg_pp_load = 1&lt;br&gt;sreg_pp_en = 0&lt;br&gt;sreg_addr_load = 0&lt;br&gt;sreg_addr_en = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zBdRikjatMXLkcNWQh5y-70">
           <mxGeometry x="140" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
