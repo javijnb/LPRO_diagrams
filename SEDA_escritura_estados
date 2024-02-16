@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T17:51:54.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="C-9gZdQP_lUYpid4wG1g" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T17:54:50.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="VwqDVk8joFWNFYF4CJAL" version="23.1.2" type="github">
   <diagram name="Pagina-1" id="YukvQmOsF2JQtMTUXDdt">
-    <mxGraphModel dx="2528" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="1676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,10 +195,28 @@
         <mxCell id="A_-iNfZOrtgzgUHgxnxh-29" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-60" y="240" width="270" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="A_-iNfZOrtgzgUHgxnxh-30" value="en_ctr_wren = 0&lt;br&gt;en_ctr_pp = 0&lt;br&gt;en_ctr_data = 0&lt;br&gt;en_ctr_page = 0&lt;br&gt;second_passed = 0&lt;br&gt;rst_ctr_wren = 0&lt;br&gt;rst_ctr_pp = 1&lt;br&gt;rst_ctr_data = 1&lt;br&gt;rst_ctr_page = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-29">
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-30" value="en_ctr_wren = 0&lt;br&gt;en_ctr_pp = 0&lt;br&gt;en_ctr_data = 0&lt;br&gt;en_ctr_page = 0&lt;br&gt;second_passed = 0&lt;br&gt;rst_ctr_wren = 1&lt;br&gt;rst_ctr_pp = 1&lt;br&gt;rst_ctr_data = 1&lt;br&gt;rst_ctr_page = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-29">
           <mxGeometry width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="A_-iNfZOrtgzgUHgxnxh-31" value="rst_write = 0&lt;br&gt;load_commands = 0&lt;br&gt;cs_mem = 1&lt;br&gt;write_en = 1&lt;br&gt;en_fifo = 0&lt;br&gt;en_wr_data = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-29">
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-31" value="rst_write = 0&lt;br&gt;load_commands = 1&lt;br&gt;cs_mem = 1&lt;br&gt;write_en = 1&lt;br&gt;en_fifo = 0&lt;br&gt;en_wr_data = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-29">
+          <mxGeometry x="140" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-370" y="240" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-33" value="en_ctr_wren = 0&lt;br&gt;en_ctr_pp = 0&lt;br&gt;en_ctr_data = 0&lt;br&gt;en_ctr_page = 0&lt;br&gt;second_passed = 0&lt;br&gt;rst_ctr_wren = 0&lt;br&gt;rst_ctr_pp = 0&lt;br&gt;rst_ctr_data = 0&lt;br&gt;rst_ctr_page = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-32">
+          <mxGeometry width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-34" value="rst_write = 0&lt;br&gt;load_commands = 0&lt;br&gt;cs_mem = 0&lt;br&gt;write_en = 0&lt;br&gt;en_fifo = 0&lt;br&gt;en_wr_data = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-32">
+          <mxGeometry x="140" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-60" y="380" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-36" value="en_ctr_wren = 0&lt;br&gt;en_ctr_pp = 0&lt;br&gt;en_ctr_data = 0&lt;br&gt;en_ctr_page = 0&lt;br&gt;second_passed = 0&lt;br&gt;rst_ctr_wren = 1&lt;br&gt;rst_ctr_pp = 1&lt;br&gt;rst_ctr_data = 0&lt;br&gt;rst_ctr_page = 0" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-35">
+          <mxGeometry width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="A_-iNfZOrtgzgUHgxnxh-37" value="rst_write = 0&lt;br&gt;load_commands = 1&lt;br&gt;cs_mem = 1&lt;br&gt;write_en = 1&lt;br&gt;en_fifo = 0&lt;br&gt;en_wr_data = 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A_-iNfZOrtgzgUHgxnxh-35">
           <mxGeometry x="140" width="130" height="140" as="geometry" />
         </mxCell>
       </root>
